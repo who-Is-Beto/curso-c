@@ -3,5 +3,10 @@
 int main()
 {
 
-  int return 0;
+  int var;
+
+  var = 1;
+  var++;
+
+  return 0;
 }
